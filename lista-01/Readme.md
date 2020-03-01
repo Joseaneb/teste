@@ -10,6 +10,17 @@
     ```
     
     - Métodos da classe String
+    ```
+    //declaração
+    String ola;
+    
+    //instanciacão
+    ola = new String(Olá mundo);
+    
+    //resultado
+    Olá mundo
+    ```
+    
     - Interação com o usuário
 
 * Comandos git
