@@ -1,10 +1,10 @@
 # Comandos git e linguagem de programação Java
 
-## ** Linguagem de programação Java **
-### - Estruturas de decisão
-### - Métodos da classe String
-### - Interação com o usuário
+*  Linguagem de programação Java 
+    - Estruturas de decisão
+    - Métodos da classe String
+    - Interação com o usuário
 
-## Comandos git
+* Comandos git
 
-### - Fluxo de trabalho usando ramos
+    - Fluxo de trabalho usando ramos
