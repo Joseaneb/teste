@@ -9,3 +9,9 @@
 * Comandos git
 
     - Fluxo de trabalho usando ramos
+    
+    Comando utilizados:
+    git checkout master
+    git merge decisao
+    git commit -am "merge master decisao"
+    git push --set-upstream ....
